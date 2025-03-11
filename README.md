@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+### NAME: SHANMUGAKARTHIK G
+### REGISTER NO: 212223220105
 
 ## Aim:
 
@@ -222,26 +223,9 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## OUTPUT
+![alt text](<Screenshot 2025-03-11 144355.png>)
+![alt text](<Screenshot 2025-03-11 144415.png>)
 ## Result:
 
 Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
